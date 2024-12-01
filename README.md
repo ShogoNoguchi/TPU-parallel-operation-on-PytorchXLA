@@ -7,3 +7,6 @@ Today, I could only use one core because TPU was popular. But the code should be
 Learning can be done according to the number of cores available at the time.
 
 Comments are welcome.
+
+https://pytorch.org/xla/release/r2.5/index.html
+https://pytorch.org/
