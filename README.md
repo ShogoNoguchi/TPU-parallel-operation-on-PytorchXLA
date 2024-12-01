@@ -4,4 +4,6 @@ I realized parallel operation codes of TPU with pytorchXLA. The basic code is th
 
 Today, I could only use one core because TPU was popular. But the code should be correct, so I'll try it again.
 
+Learning can be done according to the number of cores available at the time.
+
 Comments are welcome.
